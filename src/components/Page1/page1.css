@@ -1,0 +1,42 @@
+.main1
+{
+    display:flex;
+    position:relative;
+    background:url('background.jpg') no-repeat center center fixed;
+    font-family:'Times New Roman';
+    background-size:cover;
+    width:100vw;
+    height:90vh;
+    overflow:hidden;
+    
+}
+.sub1{
+    margin-top:30vh;
+    margin-right: 70vw;
+    position: relative;
+    color:whitesmoke;
+    font-size: 4rem;  
+    font-weight: bold; 
+}
+.subright{
+    transform: translate(-50%);
+   margin-top: 30vh; 
+    position: relative;
+    color:whitesmoke;
+    font-size: 4rem;  
+    font-weight: bold; 
+    text-align: right;
+}
+
+a{
+    color:whitesmoke;
+    text-decoration: none;
+    font-size: 25px;
+    
+}
+
+a:hover{
+    color:black;
+    background-color:yellow;
+    font-size: 27px;
+}

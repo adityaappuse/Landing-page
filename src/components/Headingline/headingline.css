@@ -1,0 +1,14 @@
+
+.main
+{   
+    font-family:Helvetica;
+    background-color: #050100;
+    font-size:3em;
+    font-weight: bolder;
+    font-style: italic;
+    height: 70px;
+    max-width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    color:#f9f6ee;
+}
